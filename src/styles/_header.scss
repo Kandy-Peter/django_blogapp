@@ -1,0 +1,18 @@
+@import 'colors';
+
+.header-clm {
+  height: 70px;
+  padding: 1.5rem 7rem;
+  background-color: $secondary_blue;
+  display: flex;
+  justify-content: space-between;
+
+  h1 {
+    color: $yellow_color;
+    font-size:22px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}
